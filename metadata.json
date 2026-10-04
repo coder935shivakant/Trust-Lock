@@ -1,0 +1,6 @@
+{
+  "name": "TrustLock - Kids Friendly Blockchain Escrow & Integrity Ledger",
+  "description": "A decentralized blockchain escrow platform and cryptographic ledger visualizer with real-time data integrity tracking, milestone payments, dispute resolution, and interactive educational security tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
